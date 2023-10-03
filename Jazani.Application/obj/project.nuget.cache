@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UyhoMwGN0xMErB6Er2O6WlQE5QFTIO8n99nGquKtBgfJwN/Q0648aTswOx+0XvxGPv8F+mCwinKsiJYXgKRnMg==",
+  "success": true,
+  "projectFilePath": "D:\\CARPETAS\\CIBR\\Bootcamp\\BootCampJazaniActividad1\\Jazani.Application\\Jazani.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HOME\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\HOME\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
